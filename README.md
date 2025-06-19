@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Arduino Projects</h1>
 <p align="center">
   <b>By Mahmudul Hasan</b><br>
-  <i>Electronics Engineering | Robotics Enthusiast | DPi Student</i>
+  <i>Electronics Engineering | Robotics Enthusiast</i>
 </p>
 
 <p align="center">

@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C/C++-blue?style=flat-square">
-  <img src="https://img.shields.io/github/license/mahmudul626/arduino-projects?style=flat-square">
-  <img src="https://img.shields.io/github/stars/mahmudul626/arduino-projects?style=flat-square">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com?user=mahmudul626&theme=tokyonight" alt="Streak Stats" height="150">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="150">

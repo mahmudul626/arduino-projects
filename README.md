@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Robot GIF" width="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFiMWl6YWZnNnhhbDFqeWpmaWtsbWtiN2JnanBzMTBuODBjM2lkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zbzuZgxt23h8ywu7Bm/giphy.gif" alt="Robot GIF" width="300">
 </p>
 
 ---

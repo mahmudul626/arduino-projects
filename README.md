@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif" width="300">
+  <img src="https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/banner%20robot%20hand%20-%20news.gif" width="600">
 </p>
 
 ---

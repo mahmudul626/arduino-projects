@@ -1,55 +1,45 @@
-# 🚀 Arduino Learning from Zero with C
+<h1 align="center">🤖 Arduino Projects</h1>
+<p align="center">
+  <b>By Mahmudul Hasan</b><br>
+  <i>Electronics Engineering | Robotics Enthusiast | DPi Student</i>
+</p>
 
-![Arduino Animated Gif](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C/C++-blue?style=flat-square">
+  <img src="https://img.shields.io/github/license/mahmudul626/arduino-projects?style=flat-square">
+  <img src="https://img.shields.io/github/stars/mahmudul626/arduino-projects?style=flat-square">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/network/members)
-
----
-
-### 📌 About this repository
-
-This repository is made for beginners who want to learn **Arduino programming from zero using C language**.  
-Here, I share all my projects, codes, and learning experience step-by-step, so anyone can start with no prior knowledge and easily understand how Arduino works with C.
-
----
-
-### 🚀 What you will get here
-
-- Simple and clear **C programs** for Arduino  
-- Step-by-step **hands-on projects** with code and circuit diagrams  
-- Detailed explanation on how each project works  
-- Beginner-friendly, no prior experience needed  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul626&theme=tokyonight" alt="Streak Stats" height="150">
+</p>
 
 ---
 
-### 🎯 Why learn Arduino with C?
+## 🔥 Project Highlights
 
-Arduino programming is mainly done in C/C++, and learning C well will help you build strong basics in embedded systems and robotics.  
-This repo focuses on **writing clean, simple C code** and understanding how Arduino hardware interacts with software.
-
----
-
-### 💡 How to use this repo?
-
-Start from the first project folder and follow the instructions.  
-Try to write and upload the code yourself to your Arduino board and see how it works!
+| Project | Description |
+|--------|-------------|
+| 🔴 **LED Blinking** | Basic LED ON/OFF using Arduino UNO |
+| 🌡️ **Temperature Sensor** | Reads analog temperature sensor values |
+| 🔊 **Sound Sensor Alert** | Detects sound and triggers response |
+| 🕹️ **Joystick Control** | Interacts with devices via joystick |
+| 🛠️ More coming soon... | Stay tuned! |
 
 ---
 
-### 🤝 Contribution
+## 🛠️ Tools & Technologies
 
-Anyone interested can use this repo freely, share it, and contribute by adding new projects or improving existing ones.  
-Let’s grow our Arduino skills together!
-
----
-
-### 👨‍💻 About Me
-
-**Mahmudul Hasan**  
-Electronics Engineering Student | Passionate about Robotics & Embedded Systems  
+- Arduino UNO
+- C/C++ (Arduino IDE)
+- IR / DHT11 / Sound Sensors
+- Windows / Linux
+- Git, GitHub
 
 ---
 
-Happy coding! 🚀⚡
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/mahmudul626/arduino-projects.git

@@ -6,8 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul626&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.vercel.app?user=mahmudul626&theme=tokyonight" alt="Streak Stats" height="150">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Robot GIF" width="300">
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <h1 align="center">🤖 Arduino Projects</h1>
 <p align="center">
-  <b>By Mahmudul Hasan</b><br>
+  <b>By Md. Mahmudul Hasan Mabud</b><br>
   <i>Electronics Engineering | Robotics Enthusiast</i>
 </p>
 
